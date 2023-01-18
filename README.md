@@ -2,8 +2,9 @@
 
 In this project We did preprocessing on a Movies dataset:
 
+Gathering.
 Assessment.
 Wrangling.
 Cleaning.
-Exploratory data analysis.
-Data Mining (classification using decision trees).
+Exploratory data analysis (EDA).
+Data Mining (classification using XGboost).
